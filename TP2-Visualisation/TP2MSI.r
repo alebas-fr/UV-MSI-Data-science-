@@ -1,3 +1,5 @@
+# Code réalisé par Alexandre-Lebas le 15/09/2021
+
 # Question 1 : 
 
 aggregate(Sepal.Length ~ Species, summary, data = iris)
@@ -56,7 +58,7 @@ plot3d(
   radius = .1,
   xlab="Sepal Length", ylab="Sepal Width", zlab="Petal Length")
 
-#rglwidget() # Pour les notebooks
+rglwidget() # Pour les notebooks
 
 # Question 5 :
 

@@ -1,6 +1,4 @@
 # Code réalisé par Alexandre-Lebas le 10/09/2021
-# Dépot Git de l'UV MSI Disponible à l'adresse suivante : https://github.com/alebas-fr/UV-MSI-Data-science-
-# Fichier du TP Introduction en R, python et en notebook disponible dans le dossier TP1
 
 # Faire un premier tirage 
 # Pour simplifier on ne donne pas de nom aux cartes mais on leur donne un numéro entre 1 et 11
